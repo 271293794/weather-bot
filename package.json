@@ -1,0 +1,20 @@
+{
+  "name": "weather-bot",
+  "version": "1.0.0",
+  "description": "一个利用GitHub Actions自动发送天气到邮箱的Bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/271293794/weather-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/271293794/weather-bot/issues"
+  },
+  "homepage": "https://github.com/271293794/weather-bot#readme"
+}
