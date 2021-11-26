@@ -27,7 +27,7 @@ jobs:
         npm install request superagent cheerio art-template node-schedule dotenv-extended
          
     - name: Run
-      run: node index.js
+      run: node index2.js
       env:
         SMTP: ${{ secrets.SMTP }}    
     
