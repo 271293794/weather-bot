@@ -22,7 +22,7 @@ request(url, (error, response, body) => {
       pass: 'xekqcvsqvubvbhbg',
     }
   });
-
+  
   let mailOptions = {
     from: '"预报君" <growvv@qq.com>', // sender address
     to: '271293794@qq.com', // list of receivers
